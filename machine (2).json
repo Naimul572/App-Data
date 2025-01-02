@@ -1,0 +1,49 @@
+[
+ {
+        "machine_name": "Name: Bakery",
+        "machine_level": "Level: 2",
+        "machine_size": "Size : 3x3",
+        "machine_price": "Price: 20 Coins",
+        "machine_image": "https://i.ibb.co/rtTs3qm/Bakery.png",
+        
+        
+        
+        
+        "food_image": [
+            "https://i.ibb.co/sP4LKYC/Corn-Bread.png",
+            "https://i.ibb.co/Dz8vcDf/Popcorn.png",
+            "https://i.ibb.co/858zdff/Brown-Sugar.png"
+        ],
+        
+        "food_name": ["abc", "zz2z", "zzzz"]
+        
+        
+        
+        
+    },
+    
+    
+    
+    {
+        "machine_name": "Name: Feed Mill",
+        "machine_level": "Level: 3 and 12",
+        "machine_size": "Size : 3x3",
+        "machine_price": "Price: 5 and 3200 coins",
+        "machine_image": "https://i.ibb.co/0MGLqQ6/Feed-Mill.png",
+        
+        
+        "food_image": [
+            "https://i.ibb.co/sP4LKYC/Corn-Bread.png",
+            "https://i.ibb.co/Dz8vcDf/Popcorn.png",
+            "https://i.ibb.co/858zdff/Brown-Sugar.png",
+            "https://i.ibb.co/858zdff/Brown-Sugar.png"
+        ],
+        
+        "food_name": ["abc", "zzz", "zzz", "zzzz"]
+        
+        
+    }
+    
+   
+    
+ ]

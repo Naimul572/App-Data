@@ -1,0 +1,164 @@
+[
+  {
+    "tree_name": "Name :  Apple Tree",
+    "tree_level": "Level:  15",
+    "tree_time": "Time:  16h",
+    "tree_price": "Price:  160 coins",
+    "tree_image": "https://i.ibb.co/mXb9b8b/Apple-Tree.png",
+    "fruits_image": "https://i.ibb.co/dgX5Df8/Apple.png"
+  },
+  {
+    "tree_name": "Name :  Raspberry Bush",
+    "tree_level": "Level:   19",
+    "tree_time": "Time:   18h",
+    "tree_price": "Price:   220 coins",
+    "tree_image": "https://i.ibb.co/hCc0rbs/Raspberry-Bush.png",
+    "fruits_image": "https://i.ibb.co/C9011CR/Raspberry.png"
+  },
+  
+  {
+    "tree_name": "Name :  Cherry Tree",
+    "tree_level": "Level:   22",
+    "tree_time": "Time:  1d 3h",
+    "tree_price": "Price:   410 coins",
+    "tree_image": "https://i.ibb.co/prWQM8x/Cherry-Tree.png",
+    "fruits_image": "https://i.ibb.co/RgH4Y6c/Cherry.png"
+  },
+  
+  {
+    "tree_name": "Name :   Blackberry Bush",
+    "tree_level": "Level:  26",
+    "tree_time": "Time:   1d 8h",
+    "tree_price": "Price:   530 coins",
+    "tree_image": "https://i.ibb.co/hMNvNDS/Blackberry-Bush.png",
+    "fruits_image": "https://i.ibb.co/M79PmPW/Blackberry.png"
+  },
+  
+  {
+    "tree_name": "Name :   Cacao Tree",
+    "tree_level": "Level:  36",
+    "tree_time": "Time:   1d 11h",
+    "tree_price": "Price:   550 coins",
+    "tree_image": "https://i.ibb.co/nRts1xy/Cacao-Tree.png",
+    "fruits_image": "https://i.ibb.co/YQT3NGz/Cacao.png"
+  },
+  
+  {
+    "tree_name": "Name :   Nectar Bush",
+    "tree_level": "Level:  39",
+    "tree_time": "Time:   No Time",
+    "tree_price": "Price:   120 coins",
+    "tree_image": "https://static.wikia.nocookie.net/hayday/images/c/c1/Nectar_Bush.png/revision/latest?cb=20141203183436.png",
+    "fruits_image": "https://static.wikia.nocookie.net/hayday/images/c/c6/Honey.png/revision/latest?cb=20180223174841.png"
+  },
+  
+  {
+    "tree_name": "Name :   Coffee Bush",
+    "tree_level": "Level:  42",
+    "tree_time": "Time:   1d",
+    "tree_price": "Price:   375 coins",
+    "tree_image": "https://i.ibb.co/cwRMnc8/Coffee-Bush.png",
+    "fruits_image": "https://i.ibb.co/b2t2szS/Coffee-Bean.png"
+  },
+  
+  {
+    "tree_name": "Name :   Olive Tree",
+    "tree_level": "Level:  57",
+    "tree_time": "Time:   1d",
+    "tree_price": "Price:   620 coins",
+    "tree_image": "https://i.ibb.co/47Kmn7f/Olive-Tree.png",
+    "fruits_image": "https://i.ibb.co/W05pyyx/Olive.png"
+  },
+  
+  {
+    "tree_name": "Name :   Peanut Bush",
+    "tree_level": "Level:  62",
+    "tree_time": "Time:   No Time",
+    "tree_price": "Price:   1200 coins",
+    "tree_image": "https://static.wikia.nocookie.net/hayday/images/d/d9/Peanut_Bush.png/revision/latest?cb=20200707051112.png",
+    "fruits_image": "https://static.wikia.nocookie.net/hayday/images/9/9b/Peanuts.png/revision/latest?cb=20200707051034.png"
+  },
+  
+  {
+    "tree_name": "Name :   Lemon Tree",
+    "tree_level": "Level:  66",
+    "tree_time": "Time:   1d 5h",
+    "tree_price": "Price:   670 coins",
+    "tree_image": "https://i.ibb.co/3CvKG3H/Lemon-Tree.png",
+    "fruits_image": "https://i.ibb.co/xm1yb0k/Lemon.png"
+  },
+  
+  {
+    "tree_name": "Name :   Orange Tree",
+    "tree_level": "Level:  71",
+    "tree_time": "Time:   1d 7h",
+    "tree_price": "Price:   720 coins",
+    "tree_image": "https://i.ibb.co/s9T43fJ/Orange-Tree.png",
+    "fruits_image": "https://i.ibb.co/0Q6KdmD/Orange.png"
+  },
+
+{
+    "tree_name": "Name :   Peach Tree",
+    "tree_level": "Level:  76",
+    "tree_time": "Time:   1d 6h",
+    "tree_price": "Price:   750 coins",
+    "tree_image": "https://i.ibb.co/G01gMKV/Peach-Tree.png",
+    "fruits_image": "https://i.ibb.co/dcWhwX2/Peach.png"
+  },
+
+{
+    "tree_name": "Name :   Banana Tree",
+    "tree_level": "Level:  88",
+    "tree_time": "Time:   1d 4h",
+    "tree_price": "Price:   800 coins",
+    "tree_image": "https://static.wikia.nocookie.net/hayday/images/e/eb/Banana_Tree.png/revision/latest?cb=20161217072118.png",
+    "fruits_image": "https://i.ibb.co/KNQK2Q4/Banana.png"
+  },
+
+{
+    "tree_name": "Name :   Plum Tree",
+    "tree_level": "Level:  94",
+    "tree_time": "Time:   1d 1h",
+    "tree_price": "Price:   600 coins",
+    "tree_image": "https://i.ibb.co/BP0hJHZ/Plum-Tree.png",
+    "fruits_image": "https://i.ibb.co/TtRPkp7/Plum.png"
+  },
+
+{
+    "tree_name": "Name :   Mango Tree",
+    "tree_level": "Level:  97",
+    "tree_time": "Time:   1d 8h",
+    "tree_price": "Price:   770 coins",
+    "tree_image": "https://i.ibb.co/84JCfSM/Mango-Tree.png",
+    "fruits_image": "https://i.ibb.co/fGK2X3Y/Mango.png"
+  },
+
+{
+    "tree_name": "Name :   Coconut Tree",
+    "tree_level": "Level:  101",
+    "tree_time": "Time:   1d 12h",
+    "tree_price": "Price:   810 coins",
+    "tree_image": "https://static.wikia.nocookie.net/hayday/images/4/41/Coconut_Tree.png/revision/latest/scale-to-width-down/1000?cb=20220925075006.png",
+    "fruits_image": "https://i.ibb.co/qnjDD9m/Coconut.png"
+  },
+
+{
+    "tree_name": "Name :   Guava Tree",
+    "tree_level": "Level:  104",
+    "tree_time": "Time:   1d 10h",
+    "tree_price": "Price:   860 coins",
+    "tree_image": "https://i.ibb.co/g95BJhC/Guava-Tree.png",
+    "fruits_image": "https://i.ibb.co/p0fW9m4/Guava.png"
+  },
+
+{
+    "tree_name": "Name :   Pomegranate Tree",
+    "tree_level": "Level:  107",
+    "tree_time": "Time:   1d 13h",
+    "tree_price": "Price:   910 coins",
+    "tree_image": "https://i.ibb.co/f049RPy/Pomegranate-Tree-Harvest-2.png",
+    "fruits_image": "https://i.ibb.co/NVwcPDd/Pomegranate.png"
+  }
+ 
+  
+]

@@ -1,0 +1,271 @@
+[
+
+{
+ "crops_name": "Name: Wheat",
+ "crops_level": "Level: 1",
+ "crops_time": "Time: 2 min",
+ "crops_image": "https://i.ibb.co/XSNwsST/Wheat.png"
+},
+
+{
+ "crops_name": "Name: Corn",
+ "crops_level": "Level: 2",
+ "crops_time": "Time: 5 min",
+ "crops_image": "https://i.ibb.co/Vq4vgRL/Corn.png"
+},
+
+{
+ "crops_name": "Name: Soybean",
+ "crops_level": "Level: 5",
+ "crops_time": "Time: 20 min",
+ "crops_image": "https://i.ibb.co/512r4H7/Soybean.png"
+},
+
+{
+ "crops_name": "Name: Sugarcane",
+ "crops_level": "Level: 7",
+ "crops_time": "Time: 30 min",
+ "crops_image": "https://i.ibb.co/4dMxwqs/Sugarcane.png"
+},
+
+{
+ "crops_name": "Name: Carrot",
+ "crops_level": "Level: 9",
+ "crops_time": "Time: 10 min",
+ "crops_image": "https://i.ibb.co/McnRFn9/Carrot.png"
+},
+
+{
+ "crops_name": "Name: Indigo",
+ "crops_level": "Level: 13",
+ "crops_time": "Time: 2h",
+ "crops_image": "https://i.ibb.co/JBtfCTH/Indigo.png"
+},
+
+{
+ "crops_name": "Name: Pumpkin",
+ "crops_level": "Level: 15",
+ "crops_time": "Time: 3h",
+ "crops_image": "https://i.ibb.co/NpFSTg3/Pumpkin.png"
+},
+
+{
+ "crops_name": "Name: Cotton",
+ "crops_level": "Level: 18",
+ "crops_time": "Time: 2h 30min",
+ "crops_image": "https://i.ibb.co/P5Bmh11/Cotton.png"
+},
+
+{
+ "crops_name": "Name: Chili Pepper",
+ "crops_level": "Level: 25",
+ "crops_time": "Time: 4h",
+ "crops_image": "https://i.ibb.co/6X83SqN/Chili-Pepper.png"
+},
+
+{
+ "crops_name": "Name: Tomato",
+ "crops_level": "Level: 30",
+ "crops_time": "Time: 6h",
+ "crops_image": "https://i.ibb.co/c2ypgj2/tomato.png"
+},
+
+{
+ "crops_name": "Name: Strawberry",
+ "crops_level": "Level: 34",
+ "crops_time": "Time: 8h",
+ "crops_image": "https://i.ibb.co/m93xVjJ/Strawberry.png"
+},
+
+{
+ "crops_name": "Name: Potato",
+ "crops_level": "Level: 35",
+ "crops_time": "Time: 3h 40min",
+ "crops_image": "https://i.ibb.co/VH34YCj/Potato.png"
+},
+
+{
+ "crops_name": "Name: Asparagus",
+ "crops_level": "Level: 49",
+ "crops_time": "Time: 6h",
+ "crops_image": "https://i.ibb.co/X8T3xkX/Asparagus.png"
+},
+
+{
+ "crops_name": "Name: Sesame",
+ "crops_level": "Level: 50",
+ "crops_time": "Time: 1h",
+ "crops_image": "https://i.ibb.co/XkPVC8H/Sesame.png"
+},
+
+{
+ "crops_name": "Name: Pineapple",
+ "crops_level": "Level: 52",
+ "crops_time": "Time: 30min",
+ "crops_image": "https://i.ibb.co/L1hsx0Z/Pineapple.png"
+},
+
+{
+ "crops_name": "Name: Lily",
+ "crops_level": "Level: 53",
+ "crops_time": "Time: 1h 30min",
+ "crops_image": "https://i.ibb.co/nsd2wqW/Lily.png"
+},
+
+{
+ "crops_name": "Name: Rice",
+ "crops_level": "Level: 56",
+ "crops_time": "Time: 45min",
+ "crops_image": "https://i.ibb.co/mRkszb5/Rice.png"
+},
+
+{
+ "crops_name": "Name: Lettuce",
+ "crops_level": "Level: 58",
+ "crops_time": "Time: 3h 30min",
+ "crops_image": "https://i.ibb.co/pxdMNw8/Lettuce.png"
+},
+
+{
+ "crops_name": "Name: Garlic",
+ "crops_level": "Level: 60",
+ "crops_time": "Time: 30min",
+ "crops_image": "https://i.ibb.co/q0zGJr5/Garlic.png"
+},
+
+{
+ "crops_name": "Name: Sunflower",
+ "crops_level": "Level: 63",
+ "crops_time": "Time: 1h 30min",
+ "crops_image": "https://i.ibb.co/L83Vnkt/Sunflower.png"
+},
+
+{
+ "crops_name": "Name: Cabbage",
+ "crops_level": "Level: 65",
+ "crops_time": "Time: 45min",
+ "crops_image": "https://i.ibb.co/FDx8VGC/Cabbage.png"
+},
+
+{
+ "crops_name": "Name: Onion",
+ "crops_level": "Level: 68",
+ "crops_time": "Time: 5h",
+ "crops_image": "https://i.ibb.co/hDhRJY3/Onion.png"
+},
+
+{
+ "crops_name": "Name: Cucumber",
+ "crops_level": "Level: 70",
+ "crops_time": "Time: 35min",
+ "crops_image": "https://i.ibb.co/wp8JDQQ/Cucumber.png"
+},
+
+{
+ "crops_name": "Name: Beetroot",
+ "crops_level": "Level: 72",
+ "crops_time": "Time: 40min",
+ "crops_image": "https://i.ibb.co/JzVXfr0/Beetroot.png"
+},
+
+{
+ "crops_name": "Name: Bell Pepper",
+ "crops_level": "Level: 74",
+ "crops_time": "Time: 4h 30min",
+ "crops_image": "https://i.ibb.co/JpgKg1Y/Bell-Pepper.png"
+},
+
+{
+ "crops_name": "Name: Ginger",
+ "crops_level": "Level: 78",
+ "crops_time": "Time: 2h 30min",
+ "crops_image": "https://i.ibb.co/7WSSX0H/Ginger.png"
+},
+
+{
+ "crops_name": "Name: Tea Leaf",
+ "crops_level": "Level: 80",
+ "crops_time": "Time: 6h 30min",
+ "crops_image": "https://i.ibb.co/tmkKzdx/Tea-Leaf.png"
+},
+
+{
+ "crops_name": "Name: Peony",
+ "crops_level": "Level: 82",
+ "crops_time": "Time: 4h",
+ "crops_image": "https://i.ibb.co/phQbss7/Peony.png"
+},
+
+{
+ "crops_name": "Name: Broccoli",
+ "crops_level": "Level: 83",
+ "crops_time": "Time: 1h 20min",
+ "crops_image": "https://i.ibb.co/YX3T2SF/Broccoli.png"
+},
+
+{
+ "crops_name": "Name: Grapes",
+ "crops_level": "Level: 84",
+ "crops_time": "Time: 3h",
+ "crops_image": "https://i.ibb.co/dJ3HpG0/Grapes.png"
+},
+
+{
+ "crops_name": "Name: Mint",
+ "crops_level": "Level: 85",
+ "crops_time": "Time: 3h",
+ "crops_image": "https://i.ibb.co/KbX7rc2/Mint.png"
+},
+
+{
+ "crops_name": "Name: Passion Fruit",
+ "crops_level": "Level: 88",
+ "crops_time": "Time: 1h",
+ "crops_image": "https://i.ibb.co/bP7fv2q/Passion-Fruit.png"
+},
+
+{
+ "crops_name": "Name: Mushroom",
+ "crops_level": "Level: 89",
+ "crops_time": "Time: 20min",
+ "crops_image": "https://i.ibb.co/c3SC5jx/Mushroom.png"
+},
+
+{
+ "crops_name": "Name: Eggplant",
+ "crops_level": "Level: 90",
+ "crops_time": "Time: 40min",
+ "crops_image": "https://i.ibb.co/2vhjQss/Eggplant.png"
+},
+
+{
+ "crops_name": "Name: Watermelon",
+ "crops_level": "Level: 92",
+ "crops_time": "Time: 5h",
+ "crops_image": "https://i.ibb.co/xq8PYMg/Watermelon.png"
+},
+
+{
+ "crops_name": "Name: Clay",
+ "crops_level": "Level: 94",
+ "crops_time": "Time: 1h 50min",
+ "crops_image": "https://i.ibb.co/ySFLj33/Clay.png"
+},
+
+{
+ "crops_name": "Name: Chickpea",
+ "crops_level": "Level: 95",
+ "crops_time": "Time: 1h",
+ "crops_image": "https://i.ibb.co/SVk6qqK/Chickpea.png"
+},
+
+{
+ "crops_name": "Name: Oats",
+ "crops_level": "Level: 119",
+ "crops_time": "Time: 7min",
+ "crops_image": "https://i.ibb.co/QY7HjV3/Oats.png"
+}
+
+
+
+]

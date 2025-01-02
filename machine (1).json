@@ -1,0 +1,398 @@
+[
+ {
+        "machine_name": "Name: Bakery",
+        "machine_level": "Level: 2",
+        "machine_size": "Size : 3x3",
+        "machine_price": "Price: 20 Coins",
+        "machine_image": "https://i.ibb.co/rtTs3qm/Bakery.png",
+        "food_image": [
+            "https://i.ibb.co/sP4LKYC/Corn-Bread.png",
+            "https://i.ibb.co/Dz8vcDf/Popcorn.png",
+            "https://i.ibb.co/858zdff/Brown-Sugar.png"
+        ],
+        "food_name": ["abc", "zzz", "zzzz"]
+    },
+    
+    
+    
+    
+    {
+        "machine_name": "Name: Feed Mill",
+        "machine_level": "Level: 3 and 12",
+        "machine_size": "Size : 3x3",
+        "machine_price": "Price: 5 and 3200 coins",
+        "machine_image": "https://i.ibb.co/0MGLqQ6/Feed-Mill.png",
+        "food_image": [
+            "https://i.ibb.co/sP4LKYC/Corn-Bread.png",
+            "https://i.ibb.co/Dz8vcDf/Popcorn.png",
+            "https://i.ibb.co/858zdff/Brown-Sugar.png",
+            "https://i.ibb.co/858zdff/Brown-Sugar.png"
+        ],
+        "food_name": ["abc", "zzz", "zzz", "zzzz"]
+    },
+    
+    
+    
+
+{
+ "machine_name": "Name: Dairy",
+ "machine_level": "Level: 6",
+ "machine_size" : "Size : 4x4",
+ "machine_price": "Price: 50 coins",
+ "machine_image": "https://i.ibb.co/zs92KKT/Dairy.png"
+},
+
+{
+ "machine_name": "Name: Sugar Mill",
+ "machine_level": "Level: 7 and 76",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 350 and 2,00,000 coins",
+ "machine_image": "https://static.wikia.nocookie.net/hayday/images/8/8a/Sugar_Mill.png/revision/latest?cb=20150714142230.png"
+},
+
+{
+ "machine_name": "Name: Popcorn Pot",
+ "machine_level": "Level: 8",
+ "machine_size" : "Size : 3x3",
+ "machine_price": "Price: 650 coins",
+ "machine_image": "https://i.ibb.co/3CgwZ3B/Popcorn-Pot.png"
+},
+
+{
+ "machine_name": "Name: BBQ Gril",
+ "machine_level": "Level: 9",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 730 coins",
+ "machine_image": "https://i.ibb.co/d0GP5vt/BBQ-Grill.png"
+},
+
+{
+ "machine_name": "Name: Pie Oven",
+ "machine_level": "Level: 14",
+ "machine_size" : "Size : 3x3",
+ "machine_price": "Price: 2200 coins",
+ "machine_image": "https://i.ibb.co/wNQK7s4/Pie-Oven.png"
+},
+
+{
+ "machine_name": "Name: Loom",
+ "machine_level": "Level: 17",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 3200 coins",
+ "machine_image": "https://i.ibb.co/SQjcSZg/Loom.png"
+},
+
+{
+ "machine_name": "Name: Sewing Machine",
+ "machine_level": "Level: 19",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 4500 coins",
+ "machine_image": "https://i.ibb.co/Pr9hgvQ/Sewing-Machine.png"
+},
+
+{
+ "machine_name": "Name: Cake Oven",
+ "machine_level": "Level: 21",
+ "machine_size" : "Size : 3x3",
+ "machine_price": "Price: 12,100 coins",
+ "machine_image": "https://i.ibb.co/xh9mh0b/Cake-Oven.png"
+},
+
+{
+ "machine_name": "Name: Smelter",
+ "machine_level": "Level: 24",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 12,500+ coins",
+ "machine_image": "https://i.ibb.co/gTT09gF/Smelter-Mastered.png"
+},
+
+{
+ "machine_name": "Name: Juice Press",
+ "machine_level": "Level: 26",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 31,000 coins",
+ "machine_image": "https://i.ibb.co/xfjn74v/Juice-Press.png"
+},
+
+{
+ "machine_name": "Name: Ice Cream Maker",
+ "machine_level": "Level: 29",
+ "machine_size" : "Size : 2x3",
+ "machine_price": "Price: 38,000 coins",
+ "machine_image": "https://i.ibb.co/MGmmt1N/Ice-Cream-Maker.png"
+},
+
+{
+ "machine_name": "Name: Jam Maker",
+ "machine_level": "Level: 35",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 59,000 coins",
+ "machine_image": "https://i.ibb.co/Tc72DvX/Jam-Maker.png"
+},
+
+{
+ "machine_name": "Name: Jeweler",
+ "machine_level": "Level: 38",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 68,000 coins",
+ "machine_image": "https://i.ibb.co/1TxND9y/Jeweler.png"
+},
+
+{
+ "machine_name": "Name: Honey Extractor",
+ "machine_level": "Level: 39",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 35,000 coins",
+ "machine_image": "https://i.ibb.co/94MCj9r/Honey-Extractor.png"
+},
+
+{
+ "machine_name": "Name: Coffee Kiosk",
+ "machine_level": "Level: 42",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 75,000 coins",
+ "machine_image": "https://i.ibb.co/qpF9pGV/Coffee-Kiosk.png"
+},
+
+{
+ "machine_name": "Name: Soup Kitchen",
+ "machine_level": "Level: 46",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 1,15,000 coins",
+ "machine_image": "https://i.ibb.co/L5jt1HC/Soup-Kitchen.png"
+},
+
+{
+ "machine_name": "Name: Candle Maker",
+ "machine_level": "Level: 48",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 1,18,000 coins",
+ "machine_image": "https://i.ibb.co/4Zp4tps/Candle-Maker.png"
+},
+
+{
+ "machine_name": "Name: Flower Shop",
+ "machine_level": "Level: 49",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 1,20,000 coins",
+ "machine_image": "https://i.ibb.co/10tPvdg/Flower-Shop.png"
+},
+
+{
+ "machine_name": "Name: Candy Machine",
+ "machine_level": "Level: 51",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 1,20,000 coins",
+ "machine_image": "https://i.ibb.co/2hCnZBZ/Candy-Machine.png"
+},
+
+{
+ "machine_name": "Name: Sauce Maker",
+ "machine_level": "Level: 54",
+ "machine_size" : "Size : 3x3",
+ "machine_price": "Price: 1,35,000 coins",
+ "machine_image": "https://i.ibb.co/SRxHxrC/Sauce-Maker.png"
+},
+
+{
+ "machine_name": "Name: Sushi-Bar",
+ "machine_level": "Level: 56",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 1,50,000 coins",
+ "machine_image": "https://i.ibb.co/L5J6Y1W/Sushi-Bar.png"
+},
+
+{
+ "machine_name": "Name: Salad Bar",
+ "machine_level": "Level: 58",
+ "machine_size" : "Size : 3x3",
+ "machine_price": "Price: 1,65,000 coins",
+ "machine_image": "https://i.ibb.co/v3Jz1gW/Salad-Bar.png"
+},
+
+{
+ "machine_name": "Name: Sandwich Bar",
+ "machine_level": "Level: 61",
+ "machine_size" : "Size : 3x3",
+ "machine_price": "Price: 1,80,000 coins",
+ "machine_image": "https://i.ibb.co/GtVHDQz/Sandwich-Bar.png"
+},
+
+{
+ "machine_name": "Name: Smoothie Mixer",
+ "machine_level": "Level: 64",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 2,20,000 coins",
+ "machine_image": "https://i.ibb.co/xjrszN1/Smoothie-Mixer.png"
+},
+
+{
+ "machine_name": "Name: Pasta Maker",
+ "machine_level": "Level: 67",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 4,00,000 coins",
+ "machine_image": "https://i.ibb.co/W5YYR3D/Pasta-Maker.png"
+},
+
+{
+ "machine_name": "Name: Wok Kitchen",
+ "machine_level": "Level: 69",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 3,50,000 coins",
+ "machine_image": "https://i.ibb.co/Tqx69BK/Wok-Kitchen.png"
+},
+
+{
+ "machine_name": "Name: Hat Maker",
+ "machine_level": "Level: 70",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 2,60,000 coins",
+ "machine_image": "https://i.ibb.co/cFw1mkM/Hat-Maker.png"
+},
+
+{
+ "machine_name": "Name: Pasta Kitchen",
+ "machine_level": "Level: 72",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 5,50,000 coins",
+ "machine_image": "https://i.ibb.co/qpWpS0q/Pasta-Kitchen.png"
+},
+
+{
+ "machine_name": "Name: Hot Dog Stand",
+ "machine_level": "Level: 75",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 6,50,000 coins",
+ "machine_image": "https://i.ibb.co/NVQsMCT/Hot-Dog-Stand.png"
+},
+
+{
+ "machine_name": "Name: Donut Maker",
+ "machine_level": "Level: 76",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 6,80,000 coins",
+ "machine_image": "https://i.ibb.co/DrbNFx2/Donut-Maker.png"
+},
+
+{
+ "machine_name": "Name: Taco Kitchen",
+ "machine_level": "Level: 77",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 7,00,000 coins",
+ "machine_image": "https://i.ibb.co/wY6k8zB/Taco-Kitchen.png"
+},
+
+{
+ "machine_name": "Name: Omelet-Station",
+ "machine_level": "Level: 77",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 6,00,000 coins",
+ "machine_image": "https://i.ibb.co/m6LgBRm/Omelet-Station.png"
+},
+
+{
+ "machine_name": "Name: Tea Stand",
+ "machine_level": "Level: 80",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 7,50,000 coins",
+ "machine_image": "https://i.ibb.co/VJ7MJVc/Tea-Stand.png"
+},
+
+{
+ "machine_name": "Name: Fondue Pot",
+ "machine_level": "Level: 81",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 8,00,000 coins",
+ "machine_image": "https://i.ibb.co/pzr04z1/Fondue-Pot.png"
+},
+
+{
+ "machine_name": "Name: Bath Kiosk",
+ "machine_level": "Level: 84",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 8,50,000 coins",
+ "machine_image": "https://i.ibb.co/6nkcSJd/Bath-Kiosk.png"
+},
+
+{
+ "machine_name": "Name: Deep Fryer",
+ "machine_level": "Level: 87",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 9,00,000 coins",
+ "machine_image": "https://i.ibb.co/dmsMkgW/Deep-Fryer.png"
+},
+
+{
+ "machine_name": "Name: Preservation Station",
+ "machine_level": "Level: 91",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 9,50,000 coins",
+ "machine_image": "https://i.ibb.co/BtDyBGS/Preservation-Station.png"
+},
+
+{
+ "machine_name": "Name: Pottery Studio",
+ "machine_level": "Level: 94",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 10,00,000 coins",
+ "machine_image": "https://i.ibb.co/vx0btY9/Pottery-Studio.png"
+},
+
+{
+ "machine_name": "Name: Fudge Shop",
+ "machine_level": "Level: 99",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 10,50,000 coins",
+ "machine_image": "https://i.ibb.co/ZB58DdK/Fudge-Shop.png"
+},
+
+{
+ "machine_name": "Name: Yogurt Maker",
+ "machine_level": "Level: 103",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 11,00,000 coins",
+ "machine_image": "https://i.ibb.co/YdmJVTy/Yogurt-Maker.png"
+},
+
+{
+ "machine_name": "Name: Stew Pot",
+ "machine_level": "Level: 106",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 11,50,000 coins",
+ "machine_image": "https://i.ibb.co/xsxRp54/Stew-Pot.png"
+},
+
+{
+ "machine_name": "Name: Cupcake Maker",
+ "machine_level": "Level: 109",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 12,00,000 coins",
+ "machine_image": "https://i.ibb.co/0XKzQLZ/Cupcake-Maker.png"
+},
+
+{
+ "machine_name": "Name: Waffle Maker",
+ "machine_level": "Level: 114",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 12,50,000 coins",
+ "machine_image": "https://i.ibb.co/M73zCPc/Waffle-Maker.png"
+},
+
+{
+ "machine_name": "Name: Porridge Bar",
+ "machine_level": "Level: 119",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 13,00,000 coins",
+ "machine_image": "https://i.ibb.co/vhwY0N5/Porridge-Bar-Mastered-removebg-preview.png"
+},
+{
+ "machine_name": "Name: Milkshake Bar",
+ "machine_level": "Level: 124",
+ "machine_size" : "Size : 2x2",
+ "machine_price": "Price: 13,50,000 coins",
+ "machine_image": "https://i.ibb.co/tLf28Bg/Milkshake-Bar.png"
+}
+    
+    
+    
+ ]
