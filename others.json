@@ -1,0 +1,193 @@
+[
+
+{
+ "others_name": "Name: Shop and Newspaper",
+ "others_level": "Level: 7",
+ "others_price": "Price: Free",
+ "others_image": "https://i.ibb.co/WPScddF/Roadside-Shop-2.png"
+},
+
+{
+ "others_name": "Name: Event",
+ "others_level": "Level: 9",
+ "others_price": "Price: Hand Work",
+ "others_image": "https://i.ibb.co/R7ZJb07/Event-Board-2.png"
+},
+
+
+{
+ "others_name": "Name: Neighborhood",
+ "others_level": "Level: 10",
+ "others_price": "Price: House Repair cost 200 Coins",
+ "others_image": "https://i.ibb.co/fHZ2zjQ/Neighborhood-House.png"
+},
+
+{
+ "others_name": "Name: Farm Pass",
+ "others_level": "Level: 11",
+ "others_price": "Price: Free and Paid",
+ "others_image": "https://i.ibb.co/0Z7QKDX/Farm-Pass-Building-2.png"
+},
+
+{
+ "others_name": "Name: Donate Items",
+ "others_level": "Level: 12",
+ "others_price": "Price: Your Items",
+ "others_image": "https://i.ibb.co/HDRmg7B/Neighborhood-Mailbox-Full.png"
+},
+
+{
+ "others_name": "Name: Tom",
+ "others_level": "Level: 14",
+ "others_price": "Price: 1 Day = 15 Diamonds",
+ "others_image": "https://i.ibb.co/N9ttZWZ/Tom.png"
+},
+
+{
+ "others_name": "Name: Alfred the Postman",
+ "others_level": "Level: 15",
+ "others_price": "Price: Free and Gift cards",
+ "others_image": "https://i.ibb.co/3SVS0C1/Alfred.png"
+},
+
+{
+ "others_name": "Name: Boat",
+ "others_level": "Level: 17",
+ "others_price": "Price: Repair Cost 14000 coins",
+ "others_image": "https://i.ibb.co/KVrvsBJ/Riverboat-2.png"
+},
+
+{
+ "others_name": "Name: Derby",
+ "others_level": "Level: 18",
+ "others_price": "Price: Brain and Hard work",
+ "others_image": "https://i.ibb.co/0BKMnyG/Derby-Stand.png"
+},
+
+{
+ "others_name": "Name: Vouchers",
+ "others_level": "Level: 20",
+ "others_price": "Get: Mystery Box, Boat, Truck, Derby",
+ "others_image": "https://i.ibb.co/gZ8Y3Cr/Green-Voucher.png"
+},
+
+{
+ "others_name": "Name: Chick Vouchers",
+ "others_level": "Level: 20",
+ "others_price": "Get: Farm Pass & Events",
+ "others_image": "https://static.wikia.nocookie.net/hayday/images/8/88/Chick_Voucher.png/revision/latest?cb=20211024200821.png"
+},
+
+{
+ "others_name": "Name:  Birds",
+ "others_level": "Level: 20",
+ "others_price": "Price: 9 Chick Vouchers & Normal Vouchers",
+ "others_image": "https://static.wikia.nocookie.net/hayday/images/d/de/Major_Mitchell%27s_Cockatoo.png/revision/latest?cb=20221003215004.png"
+},
+
+{
+ "others_name": "Name:  Pets",
+ "others_level": "Level: 20 to 71",
+ "others_price": "Price: Normal Vouchers",
+ "others_image": "https://static.wikia.nocookie.net/hayday/images/4/44/White_Bunny.png/revision/latest?cb=20191028141359.png"
+},
+
+{
+ "others_name": "Name: Land Expantion",
+ "others_level": "Level: 22",
+ "others_price": "Unlock: Using Land Tools",
+ "others_image": "https://i.ibb.co/Dr7nkkv/Plot-Locked.png"
+},
+
+{
+ "others_name": "Name: Mine",
+ "others_level": "Level: 24",
+ "others_price": "Price: Repair cost 21,000 coins",
+ "others_image": "https://i.ibb.co/bQhPQXz/Mine.png"
+},
+   
+{
+ "others_name": "Name: Valley",
+ "others_level": "Level: 25",
+ "others_price": "Price: Free",
+ "others_image": "https://i.ibb.co/ZxsRzZS/Valley-Board.png"
+},
+
+{
+ "others_name": "Name: Farm Edit Mode",
+ "others_level": "Level: 25",
+ "others_price": "Price: Free",
+ "others_image": "https://i.ibb.co/wQQW3ZV/Edit-Mode-Icon.png"
+},
+
+{
+ "others_name": "Name: Fishing Boat",
+ "others_level": "Level: 27",
+ "others_price": "Price: Repair costs 35,000 coins",
+ "others_image": "https://i.ibb.co/xf2Mh0g/Fishing-Boat-Repaired.png"
+},
+
+{
+ "others_name": "Name: Maggie",
+ "others_level": "Level: 31",
+ "others_price": "Use: Coin, Voucher, Diamonds",
+ "others_image": "https://i.ibb.co/r2sJJWq/Maggie.png"
+},
+
+{
+ "others_name": "Name: Farm Helpers",
+ "others_level": "Level: 33",
+ "others_price": "Price: 3 days = 15 Diamonds",
+ "others_image": "https://i.ibb.co/SB6JL2R/Rose.png"
+},
+
+{
+ "others_name": "Name: Town",
+ "others_level": "Level: 34",
+ "others_price": "Price: station repair costs 39,000 coins",
+ "others_image": "https://i.ibb.co/8m14WX5/Farm-Train-Station.png"
+},
+
+{
+ "others_name": "Name: Boosters",
+ "others_level": "Level: 35",
+ "others_price": "Get: Derby, Valley, Purchase, Mystery Box",
+ "others_image": "https://i.ibb.co/xY5y01V/Blue-Booster.png"
+},
+
+{
+ "others_name": "Name: Beehive tree",
+ "others_level": "Level: 39",
+ "others_price": "Price: 4000 coins",
+ "others_image": "https://i.ibb.co/jGcdjMW/Beehive-Tree-Stage-4.png"
+},
+
+{
+ "others_name": "Name: Lobster Pool",
+ "others_level": "Level: 44",
+ "others_price": "Price : 80,000 coins",
+ "others_image": "https://i.ibb.co/TrsQ5TP/Lobster-Pool-Stage-6.png"
+},
+   
+{
+ "others_name": "Name: Duck Salon",
+ "others_level": "Level: 50",
+ "others_price": "Price: 90,000 coins",
+ "others_image": "https://i.ibb.co/djqwvNk/Duck-Salon-Stage6.png"
+},
+
+{
+ "others_name": "Name: Custom Decorations",
+ "others_level": "Level: 71",
+ "others_price": "Get: Derby and Farm Pass",
+ "others_image": "https://support.supercell.com/images/HayDay_Sefhelp_Custom-Deco.jpg?v=1669645981.png"
+},
+
+{
+ "others_name": "Name: Blueprints",
+ "others_level": "Level: 71",
+ "others_price": "Get: Derby, Valley and Farm Pass",
+ "others_image": "https://i.ibb.co/GkjWxqZ/Blueprint.png"
+}
+   
+ ]
