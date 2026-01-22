@@ -1,0 +1,65 @@
+[
+    {
+        "building_name": "Name : Grocery Store",
+        "building_level": "Level :  Town Level 01",
+        "building_price": "Price :  500 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Grocery_Store_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Bolt.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Duct_Tape.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Stone_Block.png"
+    },
+    {
+        "building_name": "Name : Cinema",
+        "building_level": "Level : Town Level 02",
+        "building_price": "Price : 4,500 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Cinema_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Hammer.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Nail.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Wood_Panel.png"
+    },
+    {
+        "building_name": "Name : Diner",
+        "building_level": "Level : Town Level 03",
+        "building_price": "Price : 19,000 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Diner_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Paint_Bucket.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Plank.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Screw.png"
+    },
+    {
+        "building_name": "Name : Bed and Breakfast",
+        "building_level": "Level : Town Level 05",
+        "building_price": "Price : 31,000 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/B%26B_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Brick.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Hand_Drill.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Paint_Bucket.png"
+    },
+    {
+        "building_name": "Name : Spa",
+        "building_level": "Level : Town Level 09",
+        "building_price": "Price : 62,000 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Spa_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Brick.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Stone_Block.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Tar_Bucket.png"
+    },
+    {
+        "building_name": "Name : Gift Shop",
+        "building_level": "Level : Town Level 11",
+        "building_price": "Price : 67,000 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Gift_Shop_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Hammer.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Stone_Block.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Tar_Bucket.png"
+    },
+    {
+        "building_name": "Name : Beach Cafe",
+        "building_level": "Level : Town Level 13",
+        "building_price": "Price : 71,000 Coins",
+        "building_image": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Beach_Cafe_Outside3.png",
+        "tools_img_01": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Hammer.png",
+        "tools_img_02": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Hand_Drill.png",
+        "tools_img_03": "https://www.naimulappstore.xyz/ntas/server_image/town_image/Tar_Bucket.png"
+    }
+]
