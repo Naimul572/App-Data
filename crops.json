@@ -2,9 +2,9 @@
 
 {
  "crops_name": "Name: Wheat",
- "crops_level": "Level: 50",
+ "crops_level": "Level: 1",
  "crops_time": "Time: 2 min",
- "crops_image": "https://static.wikia.nocookie.net/hayday/images/3/31/Chamomile.png/revision/latest/scale-to-width-down/1000?cb=20241209180843"
+ "crops_image": "https://static.wikia.nocookie.net/hayday/images/e/e2/Wheat.png/revision/latest?cb=20240218150024"
 },
 
 {
@@ -269,3 +269,4 @@
 
 
 ]
+
